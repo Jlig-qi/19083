@@ -1,9 +1,13 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-   
+    <h2>dev
+      Daima
+    </h2>
     <h3>Installed CLI Plugins</h3>
     <h1>masterdaima</h1>
+    <span>qiqiqi</span>
+  
   </div>
 </template>
 
